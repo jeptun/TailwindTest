@@ -8,7 +8,7 @@
   <h3 align="center">React-Tunes</h3>
 
   <p align="center">
-    Tailwindcss zkouška. Nedodělané!
+    Tailwindcss zkouška. Nedokončeno!
     <br />
     <br />
     .
