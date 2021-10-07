@@ -4,10 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://reactjs.org/">
-    <img src="images/logo.svg" alt="Logo" width="80" height="80">
-  </a>
-
+ 
   <h3 align="center">React-Tunes</h3>
 
   <p align="center">
