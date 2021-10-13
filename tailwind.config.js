@@ -1,6 +1,6 @@
 module.exports = {
   purge: {
-    enabled: true,
+    enabled: true, // minim. css 
     content: [
       "./public/*.html"
     ]
