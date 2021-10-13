@@ -38,6 +38,7 @@ module.exports = {
       screens: {
         
       },
+      //Tento font nebyl nakonec použit, ale může být alternativou.
       fontFamily: {
         galanoGrotesqueBold: ['"GalanoGrotesqueBold"'],
         galanoGrotesqueThin: ['"GalanoGrotesqueThin"'],
