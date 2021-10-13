@@ -52,12 +52,21 @@ V aplikaci je použito.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Bugy a nedodělky
+
+Je třeba propojit hamburger menu animaci s tlačítkem, celkově si pohrát s rozvržením textu a obrzků. Upavit odsazení a mezery mezi elementy. Sjednotit vyzuální podobu tlačítek. Galerie je zatím čistý koncept. Předělat špatně vytvořené buttons od sekce 3 až po napište email. Odstranit zelené orientační kostičky...
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- CONTACT -->
 ## Contact
 
 Josef Dosoudil  - jeptun@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
