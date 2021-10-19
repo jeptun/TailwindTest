@@ -5,7 +5,7 @@
 <br />
 <div align="center">
  
-  <h3 align="center">React-Tunes</h3>
+  <h3 align="center">Tailwind Obklady</h3>
 
   <p align="center">
     Tailwindcss zkouška. Nedokončeno!
@@ -22,7 +22,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://obkladyzlin.netlify.app/)
 
-Testování Tailwindu a různých knihoven jako Gsap k animaci obrázků a Swiper na carousel. 
+Test Tailwind a různých knihoven jako Gsap sloužící k animaci obrázků a Swiper.js sloužící k vytvoření carouselu.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -54,7 +54,7 @@ V aplikaci je použito.
 
 ## Bugy a nedodělky
 
-Je třeba propojit hamburger menu animaci s tlačítkem, celkově si pohrát s rozvržením textu a obrázků. Upavit odsazení a mezery mezi elementy. Sjednotit vyzuální podobu tlačítek. Galerie je zatím čistý koncept. Předělat špatně vytvořené buttons od sekce 3 až po napište email. Odstranit zelené orientační kostičky...
+Galerie je zatím čistý koncept. Je třeba propojit hamburger menu animaci s tlačítkem, celkově si pohrát s rozvržením textu a obrázků. Dále je třeba upravit odsazení a mezery mezi elementy, sjednotit vizuální podobu tlačítek a předělat buttons od sekce 3 až po "napište email" a odstranit zelené orientační kostičky.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
